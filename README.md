@@ -2,7 +2,7 @@
 
 # Blockbuster
 
-Work in progress- Blockbuster HTML5 Canvas Game
+Work in progress- Blockbuster HTML5 Canvas Game - Play @ http://hpieters.github.io/Blockbuster/
 
 # Install
 
