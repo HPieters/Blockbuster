@@ -1,0 +1,24 @@
+{
+  "name": "Blockbuster",
+  "version": "0.0.1",
+  "authors": [
+    "Harrie Pieters <harrie@harriepieters.nl>"
+  ],
+  "description": "Blockbuster - HTML5 Game",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+  },
+  "resolutions": {
+    "jquery": "~2.1.0"
+  }
+}
+
