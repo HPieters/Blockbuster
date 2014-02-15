@@ -1,4 +1,4 @@
-[Blockbuster](https://raw.github.com/HPieters/blockbuster/master/readme/logo.png "Blockbuster")
+[Blockbuster](https://raw2.github.com/HPieters/Blockbuster/master/readme/logo.png "Blockbuster")
 
 # Blockbuster
 
